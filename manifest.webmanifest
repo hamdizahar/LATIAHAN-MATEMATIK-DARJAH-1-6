@@ -1,0 +1,19 @@
+{
+  "name": "Kancil Seberang Sungai: Permainan Matematik",
+  "short_name": "Kancil Matematik",
+  "description": "Permainan matematik sekolah rendah. Bantu Sang Kancil menyeberang sungai dengan menjawab soalan!",
+  "lang": "ms",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFDF6",
+  "theme_color": "#2E9C8F",
+  "categories": ["education", "games", "kids"],
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
